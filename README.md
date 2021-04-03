@@ -1,4 +1,4 @@
-# librarymanagementsystem
+# Library Management System
 A Simple & Minimal Library Management System made for our University Project under the curriculum of Bachelor of Technology.
 
 # Functionalities
@@ -25,3 +25,7 @@ A Simple & Minimal Library Management System made for our University Project und
 # Contributors:
 
 Made with <3 by Tanishq Chamboowala, Aryan Reddy, Aniket Dubey & Jash Shah.
+
+## License
+
+**MIT &copy; [Aniket Dubey](https://github.com/itsaniketdubey/librarymanagementsystem/blob/main/LICENSE)**
