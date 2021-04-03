@@ -15,9 +15,13 @@ A Simple & Minimal Library Management System made for our University Project und
 # Technological Contents
 ![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
 ![PYTHON](https://img.shields.io/badge/python-v3.7-blue")
--Front End: Python (Tkinter)
+- Front End: Python (Tkinter)
 - Back End: MYSQL
 
 # Requirements: 
 - Python v3.7 or above
 - MySQL v8.0 or above
+
+# Contributors:
+
+Made with <3 by Tanishq Chamboowala, Aryan Reddy, Aniket Dubey & Jash Shah.
