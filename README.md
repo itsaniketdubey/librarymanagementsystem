@@ -24,7 +24,7 @@ A Simple & Minimal Library Management System made for our University Project und
 
 # Contributors:
 
-Made with <3 by Tanishq Chamboowala, Aryan Reddy, Aniket Dubey & Jash Shah.
+Made with <3 by Tanishq Chamboowala, Aryan A Reddy, Aniket Dubey & Jash Shah.
 
 ## License
 
